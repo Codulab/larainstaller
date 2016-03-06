@@ -1,0 +1,19 @@
+{
+  "name": "stanwarri/larainstaller",
+  "version": "2.0.0",
+   "authors": [
+    {
+      "name": "Stanley Warri",
+      "email": "stanley@codulab.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Stanwarri\\LaraInstaller\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  }
+}
